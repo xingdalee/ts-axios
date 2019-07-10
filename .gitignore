@@ -1,1 +1,1 @@
-examples/*.js
+examples/**/*.js

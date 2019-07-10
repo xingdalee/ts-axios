@@ -1,9 +1,9 @@
 /*
  * @Author: lixingda
- * @Desc: 接口 - 额外属性检查+函数类型+可索引的类型
+ * @Desc: 接口 - 额外属性检查
  * @Date: 2019-07-09 17:08:17
  * @Last Modified by: lixingda
- * @Last Modified time: 2019-07-10 13:37:03
+ * @Last Modified time: 2019-07-10 13:49:41
  */
 // 额外属性检查
 interface Square {

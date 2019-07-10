@@ -3,7 +3,7 @@
  * @Desc: 接口 - 可选属性+只读属性
  * @Date: 2019-07-09 16:41:40
  * @Last Modified by: lixingda
- * @Last Modified time: 2019-07-09 17:05:50
+ * @Last Modified time: 2019-07-10 13:38:12
  */
 interface Square {
   color: string;
